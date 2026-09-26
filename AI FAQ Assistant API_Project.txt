@@ -1,0 +1,4 @@
+PORT=5000
+MONGO_URI=mongodb://127.0.0.1:27017/ai_faq_assistant
+JWT_SECRET=jwt_refresh_token_secret
+api_key=AQ.Ab8RN6Jhbaig9Nuxw0ahyB3DWIMwmCgeT5orsLLxxlAsSGeeAg
